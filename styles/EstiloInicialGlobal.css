@@ -1,0 +1,286 @@
+* {
+
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+#corpo {
+    
+    background-color: azure;
+
+    width: 100%;
+    height: auto; 
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+#article {
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.topo {
+
+    width: 100%;
+    display: flex;
+    height: 65px;
+    position: absolute;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.topo img{
+
+    font-size: 25px;
+    padding: 10px;
+
+}
+
+.menu {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.menu li{
+
+    font-size: 20px;
+
+}
+
+.menu a{
+
+    color: #008a0e;
+    margin-left: 40px;
+    padding: 15px;
+
+}
+
+.menu a:hover{
+
+    color: #6d351a;
+
+}
+
+.apresentativo {
+
+    display: flex;
+    width: 100%;
+    position: relative;
+    align-items: center;
+
+}
+
+.apresentativo img{
+    
+    width: 100%;
+    max-height: 350px;
+    opacity: 1;
+    object-fit: cover;
+
+}
+
+.adicional {
+    
+    float: left;
+    left:  0;
+    bottom: 5%;
+    position: fixed;
+
+}
+
+.adicional div a{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+
+}
+
+.adicional div a i{
+
+    width: 50px;
+    background-color: #6d351a;
+    color: azure;
+    border-radius: 0px 10px 10px 0px;
+    padding: 5px;
+    font-size: 30px;
+    align-items: center;
+
+}
+
+.adicional div a p{
+
+    background-color: #6d351a;
+    color: azure;
+    font-size: 20px;
+    display: none;
+    padding: 10px;
+    align-items: center;
+    border-radius: 0px 10px 10px 0px;
+
+}
+
+.adicional:hover div a p{
+
+    display: block;
+
+}
+
+.adicional:hover div a i{
+
+    border-radius: 0px 0px 0px 0px;
+
+}
+
+.imagem-planeta {
+
+    display: block;
+    width: 400px;
+    height: 110px;
+    transform: rotate(-10deg);
+
+}
+
+.image-1 {
+
+    color: #6d351a;
+    margin: 5px;
+    font-size: 55px;
+    float: left;
+
+}
+
+#image-2 {
+
+    color: #6d351a;
+    transform: rotate(45deg);
+    font-size: 35px;
+    top:0;
+
+}
+
+#titulo-planeta {
+
+    float: center;
+    bottom:0;
+    font-size: 35px;
+    color: #6d351a;
+
+}
+
+.conteiner-caixa {
+
+    display: flex;
+    flex-direction: row;
+    background-color: #3a8112;
+    width: 100%;
+    flex-wrap: wrap;
+    min-height: 310px;
+    justify-content: space-evenly;
+
+}
+
+.caixa-informativa{
+    margin: 7px;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    background-color: azure;
+    align-items: center;
+    width: 510px;
+    min-height: 300px;
+    border-left: 3px solid #6d351a;
+    border-right: 3px solid #6d351a;
+    border-radius: 25px;
+
+}
+
+.caixa-informativa p{
+    padding: 10px;
+    align-items: center;
+    text-justify: auto;
+    font-size: 25px;
+    text-align: justify;
+    color: #6d351a;
+
+}
+
+.caixa-sobre{
+
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 30px;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+    color: #5b2d17;
+    justify-content: center;
+    min-height: 350px;
+    border-left: 3px solid #3a8112;
+    border-right: 3px solid #3a8112;
+    border-radius: 25px;
+    box-shadow: 0 2px 3px -3px black;
+
+}
+
+.caixa-sobre p{
+
+    padding: 10px;
+    text-justify: auto;
+    font-size: 30px;
+    text-align: justify;
+
+}
+
+.caixa-footer {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #6d351a;
+    width: 100%;
+    min-height: 140px;
+    justify-content: center;
+
+}
+
+.titulo-footer, .caixa-contato{
+
+    color: azure;
+    font-size: 25px;
+    padding: 10px;
+    margin: 10px;
+    border-right: 2px solid azure;
+}
+
+.titulo-footer {
+    
+    font-size: 30px;
+    
+}
+
+.caixa-contato p{
+    
+    padding: 5px;
+    
+}
