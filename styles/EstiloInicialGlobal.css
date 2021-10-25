@@ -159,6 +159,7 @@
     width: 400px;
     height: 110px;
     transform: rotate(-10deg);
+    align-items: center;
 
 }
 
