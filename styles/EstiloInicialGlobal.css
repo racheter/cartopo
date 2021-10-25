@@ -209,7 +209,7 @@
     flex-direction: column;
     background-color: azure;
     align-items: center;
-    width: 500px;
+    width: 350px;
     min-height: 100px;
     border-left: 3px solid #6d351a;
     border-right: 3px solid #6d351a;
@@ -218,7 +218,7 @@
 }
 
 .caixa-informativa p{
-    padding: 10px;
+    padding: 5px;
     align-items: center;
     text-justify: auto;
     font-size: 25px;
