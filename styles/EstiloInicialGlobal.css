@@ -169,6 +169,7 @@
     color: #6d351a;
     margin: 5px;
     font-size: 55px;
+
 }
 
 #image-2 {
@@ -186,6 +187,7 @@
     font-size: 25px;
     padding: 5px;
     color: #6d351a;
+    float: right;
 
 }
 
