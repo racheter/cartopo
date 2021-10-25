@@ -213,7 +213,7 @@
     background-color: azure;
     align-items: center;
     width: 500px;
-    max-height: 200px;
+    min-height: 200px;
     border-left: 2px solid #6d351a;
     border-right: 2px solid #6d351a;
     border-radius: 35px;
