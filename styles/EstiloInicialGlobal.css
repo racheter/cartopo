@@ -209,7 +209,7 @@
     flex-direction: column;
     background-color: azure;
     align-items: center;
-    width: 350px;
+    width: auto;
     height: auto;
     border-left: 2px solid #6d351a;
     border-right: 2px solid #6d351a;
