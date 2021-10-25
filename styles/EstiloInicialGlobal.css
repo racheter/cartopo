@@ -210,10 +210,10 @@
     background-color: azure;
     align-items: center;
     width: 350px;
-    min-height: 100px;
-    border-left: 3px solid #6d351a;
-    border-right: 3px solid #6d351a;
-    border-radius: 25px;
+    min-height: 150px;
+    border-left: 2px solid #6d351a;
+    border-right: 2px solid #6d351a;
+    border-radius: 20px;
 
 }
 
