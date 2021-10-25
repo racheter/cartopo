@@ -8,7 +8,7 @@ var inicio = `
 
     <div class="topo flex-topo">
 
-			<img src="images/logo.png" alt="cartopo" width="90" height="80">
+			<img src="images/logo.png" alt="cartopo" width="auto" height="80">
 
 			<nav class="menu flex-topo">
 
