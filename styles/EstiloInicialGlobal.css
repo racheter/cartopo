@@ -208,8 +208,8 @@
     flex-direction: column;
     background-color: azure;
     align-items: center;
-    width: 450px;
-    min-height: 200px;
+    width: 500px;
+    min-height: 100px;
     border-left: 3px solid #6d351a;
     border-right: 3px solid #6d351a;
     border-radius: 25px;
