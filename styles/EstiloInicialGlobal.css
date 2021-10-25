@@ -203,13 +203,13 @@
 
 .caixa-informativa{
     margin: 10px;
-    padding: 5px;
+    padding: 10px;
     display: flex;
     flex-direction: column;
     background-color: azure;
     align-items: center;
-    width: 450px;
-    min-height: 300px;
+    width: 350px;
+    min-height: 200px;
     border-left: 3px solid #6d351a;
     border-right: 3px solid #6d351a;
     border-radius: 25px;
