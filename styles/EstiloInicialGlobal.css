@@ -154,11 +154,10 @@
 
 .imagem-planeta {
 
-    display: block;
+    display: flex;
     padding: 5px;
     margin: 5px;
     width: 100%;
-    display: block;
     transform: rotate(-10deg);
     align-items: center;
 
