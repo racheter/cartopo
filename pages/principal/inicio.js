@@ -95,7 +95,7 @@ var inicio = `
 
             <div>
 
-                <p id="titulo-sobre">Quem somos</p>
+                <p id="titulo-sobre">QUEM SOMOS</p>
 
             </div>
 
