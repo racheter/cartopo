@@ -1,6 +1,6 @@
 * {
 
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Architects Daughter', cursive;
     margin: 0;
     padding: 0;
     font-size: 100%;
@@ -225,7 +225,6 @@
     font-size: 25px;
     text-align: justify;
     color: #6d351a;
-    font-family: 'Architects Daughter', cursive;
 
 }
 
@@ -253,7 +252,6 @@
     padding: 10px;
     text-justify: auto;
     font-size: 40px;
-    font-family: 'Architects Daughter', cursive;
     text-align: justify;
 
 }

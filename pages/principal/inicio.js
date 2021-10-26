@@ -27,7 +27,7 @@ var inicio = `
 
                 <i class="fas fa-globe-americas image-1"></i>
                 <i id="image-2" class="fas fa-satellite"></i>
-                <p id="titulo-planeta">Retificação de área</p>
+                <p id="titulo-planeta">RETIFICAÇÔ DE ÁREA</p>
             </div>
 
             <p>O procedimento de ajuste entre as divisas reais do imovel e a que consta na Matrícula do imóvel e deve ser feita quando a descrição presente na matrícula do imovel for, de alguma forma, omissa, não contendo informação necessária, imprecisa ou não condizente com a realidade</p>
@@ -39,7 +39,7 @@ var inicio = `
             <div class="imagem-planeta">
 
                 <i class="fas fa-map image-1"></i>
-                <p id="titulo-planeta">Desmenbramento</p>
+                <p id="titulo-planeta">DESMENBRAMENTO</p>
 
             </div>
 
@@ -52,7 +52,7 @@ var inicio = `
             <div class="imagem-planeta">
                 
                 <i class="fas fa-atlas image-1"></i>
-                <p id="titulo-planeta">Usucapiao</p>
+                <p id="titulo-planeta">USOCAPIAO</p>
 
             </div>
 
@@ -64,7 +64,7 @@ var inicio = `
             <div class="imagem-planeta">
 
                 <i class="fas fa-layer-group image-1"></i>
-                <p id="titulo-planeta">Unificação</p>
+                <p id="titulo-planeta">UNIFICAÇÂO</p>
 
             </div>
 
@@ -77,7 +77,7 @@ var inicio = `
             <div class="imagem-planeta">
                 
                 <i class="fas fa-map-marked-alt image-1"></i>
-                <p id="titulo-planeta">Georreferenciamento</p>
+                <p id="titulo-planeta">GEORREFERENCIAMENTO</p>
 
             </div>
 
