@@ -6,18 +6,6 @@ var inicio = `
 
     </div>
 
-    <div class="topo flex-topo">
-
-			<img src="images/logo.png" alt="cartopo" width="auto" height="80">
-
-			<nav class="menu flex-topo">
-
-				<li id="mutavel"><a href="#">CARTOPO TOPOGRAFIA</a></li>
-
-	        </nav>
-
-	</div>
-
 
     <div class="conteiner-caixa">
 
@@ -129,6 +117,19 @@ oferecemos serviços com eficiência e qualidade, obedecendo a todas as normas e
             </div>
 
     </div>
+
+
+    <div class="topo flex-topo">
+
+			<img src="images/logo.png" alt="cartopo" width="auto" height="80">
+
+			<nav class="menu flex-topo">
+
+				<li id="mutavel"><a href="#">CARTOPO TOPOGRAFIA</a></li>
+
+	        </nav>
+
+	</div>
 `
 
 
