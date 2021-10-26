@@ -1,6 +1,4 @@
 * {
-
-    font-family: 'Architects Daughter', cursive;
     margin: 0;
     padding: 0;
     font-size: 100%;
@@ -13,6 +11,8 @@
 }
 
 #corpo {
+
+    font-family: 'Architects Daughter', cursive;
     
     background-color: azure;
 
