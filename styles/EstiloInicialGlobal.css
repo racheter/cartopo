@@ -220,6 +220,7 @@
 .caixa-informativa p{
     padding: 5px;
     margin: 5px;
+    margin-top: 15px;
     align-items: center;
     text-justify: auto;
     font-size: 25px;
