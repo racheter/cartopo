@@ -53,7 +53,7 @@ var inicio = `
             <div class="imagem-planeta">
                 
                 <i class="fas fa-atlas image-1"></i>
-                <p id="titulo-planeta">USOCAPIAO</p>
+                <p id="titulo-planeta">USUCAPIÃO</p>
 
             </div>
 
