@@ -96,7 +96,8 @@
 
 .apresentativo p{
     
-    -webkit-text-stroke-width: thin;
+    -webkit-text-stroke-opacity: 0.5;
+    -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: azure;
     color: #6d351a;
     font-size: 50px;
