@@ -1,10 +1,3 @@
-const funcbtn = document.createElement('script')
-
-funcbtn.src = './script/botao.js'
-
-document.head.appendChild(funcbtn)
-
-
 
 const baseElementoMutavel = document.getElementById('cima')
 const base = document.createElement('script')
