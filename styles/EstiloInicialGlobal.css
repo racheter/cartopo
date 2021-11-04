@@ -97,7 +97,7 @@
 .apresentativo p{
     
     -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: azure;
+    -webkit-text-stroke-color: #ffff;
     color: #6d351a;
     font-size: 50px;
     right: 5%;
