@@ -1,4 +1,5 @@
 * {
+
     margin: 0;
     padding: 0;
     font-size: 100%;
@@ -13,9 +14,7 @@
 #corpo {
 
     font-family: 'Architects Daughter', cursive;
-    
     background-color: azure;
-
     width: 100%;
     height: auto; 
     display: flex;
@@ -76,25 +75,55 @@
 
 .menu a:hover{
 
-    color: #6d351a;
+     color: #6d351a;
 
 }
 
-.apresentativo {
+.apresentativo{
 
     display: flex;
     width: 100%;
-    position: relative;
     align-items: center;
+}
+
+#aId img{
+    
+    align-items: center;
+    width: 100%;
+    height: auto;
 
 }
 
-.apresentativo img{
+.apresentativo p{
     
-    width: 100%;
-    height: auto;
-    opacity: 1;
-    object-fit: cover;
+    color: #6d351a;
+    font-size: 50px;
+    right: 5%;
+    position: absolute;
+    
+
+}
+
+.apresentativo form{
+    
+    position: absolute;
+    font-size: 0;
+    display: none;
+}
+
+#prev, #next {
+    
+    align-items: center;
+    height: 700px;
+    font-size: 40px;
+    padding: 20px;
+    color: azure;
+    position: absolute;
+
+}
+
+#next {
+    right: 0;
 
 }
 
@@ -203,6 +232,26 @@
     justify-content: space-evenly;
 
 }
+
+.titulo-servi {
+
+    width: 100%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ 
+
+}
+
+.titulo-servi p{
+    
+    margin-top: 40px;
+    color: #6d351a;
+    font-size: 65px;
+
+}
+
 
 .caixa-informativa{
 
