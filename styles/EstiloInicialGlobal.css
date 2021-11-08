@@ -95,10 +95,7 @@
 }
 
 .apresentativo p{
-    
-    -webkit-text-stroke-opacity: 0.5;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: azure;
+
     color: #6d351a;
     font-size: 50px;
     right: 5%;
@@ -219,7 +216,7 @@
     bottom:0;
     font-size: 25px;
     padding: 5px;
-    color: #6d351a;
+    color: azure;
     float: center;
 
 }
@@ -243,14 +240,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
- 
 
 }
 
 .titulo-servi p{
     
     margin-top: 40px;
-    color: #6d351a;
+    color: azure;
     font-size: 65px;
 
 }
@@ -276,7 +272,7 @@
     text-justify: auto;
     font-size: 25px;
     text-align: justify;
-    color: #6d351a;
+    color: azure;
 
 }
 
