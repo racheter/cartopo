@@ -132,6 +132,7 @@
     float: left;
     left:  0;
     bottom: 5%;
+    width: 6%;
     position: fixed;
 
 }
@@ -140,19 +141,22 @@
 
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     align-items: center;
     margin-top: 10px;
+    width: 100%;
 
 }
 
 .adicional div a i{
 
-    width: 50px;
+    width: 100%;
     background-color: #6d351a;
     color: azure;
     border-radius: 0px 10px 10px 0px;
     padding: 5px;
     font-size: 30px;
+    width: 100%;
     align-items: center;
 
 }
