@@ -132,7 +132,6 @@
     float: left;
     left:  0;
     bottom: 5%;
-    width: 6%;
     position: fixed;
 
 }
@@ -233,6 +232,7 @@
     width: 100%;
     flex-wrap: wrap;
     height: auto;
+    padding: 25px;
     justify-content: space-evenly;
 
 }
@@ -283,15 +283,14 @@
 .caixa-sobre{
 
     display: flex;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding: 30px;
+    padding: 115px;
     flex-direction: column;
+    margin: 10px;
     align-items: center;
-    max-width: 800px;
+    max-width: 900px;
     color: #5b2d17;
     justify-content: center;
-    min-height: 350px;
+    min-height: 500px;
     border-left: 3px solid #3a8112;
     border-right: 3px solid #3a8112;
     border-radius: 25px;
@@ -302,6 +301,7 @@
 .caixa-sobre p{
 
     padding: 10px;
+    
     text-justify: auto;
     font-size: 40px;
     text-align: justify;
