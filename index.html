@@ -90,7 +90,18 @@
         <article id="article"></article>
         <aside id="aside" class="adicional"></aside>
         
-        <script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js">
+            $('nav li a').click(function(e){
+                e.preventDefault();
+                var id = $(this).attr('href'),
+                    targetOffset = $(id).offset()
+                
+                $('html, body').animate({
+                    scrollTop: targetOffset - 65
+                }, 700);
+                
+            });
+        </script>
         <script type="text/javascript" src="scripts/main.js"></script>
 	
 	</body>
