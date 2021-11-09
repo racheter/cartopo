@@ -232,7 +232,7 @@
     width: 100%;
     flex-wrap: wrap;
     height: auto;
-    padding: 25px;
+    padding: 20px;
     justify-content: space-evenly;
 
 }
@@ -283,7 +283,7 @@
 .caixa-sobre{
 
     display: flex;
-    padding: 115px;
+    padding: 105px;
     flex-direction: column;
     margin: 10px;
     align-items: center;
