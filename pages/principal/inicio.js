@@ -1,6 +1,6 @@
 var inicio = `
 
-    <div class="apresentativo">
+    <div class="apresentativo" id="s-inicio">
 
         <a id="aId"><img id="imagem-1"></a>
         <a id="prev" href="javascript:menos()"></br></br></br></br></br></br></br><i class="fas fa-angle-left"></i></a>
@@ -14,7 +14,7 @@ var inicio = `
     </div>
 
 
-    <div class="conteiner-caixa">
+    <div class="conteiner-caixa" id="s-servi">
 
         <div class="titulo-servi">
 
@@ -53,7 +53,7 @@ var inicio = `
             <div class="imagem-planeta">
                 
                 <i class="fas fa-atlas image-1"></i>
-                <p id="titulo-planeta">USUCAPIÃO</p>
+                <p id="titulo-planeta">USOCAPIAO</p>
 
             </div>
 
@@ -101,10 +101,9 @@ var inicio = `
 
     </div>
     
-
     <div>
 
-        <div class="caixa-sobre">
+        <div class="caixa-sobre" id="s-sobre">
 
             <div>
 
@@ -119,7 +118,7 @@ oferecemos serviços com eficiência e qualidade, obedecendo a todas as normas e
     </div>
 
 
-    <div class="caixa-footer">
+    <div class="caixa-footer" id="s-contato">
 
             <p class="titulo-footer"><i class="fas fa-id-card"></i> CONTATO</p>
 
@@ -138,10 +137,10 @@ oferecemos serviços com eficiência e qualidade, obedecendo a todas as normas e
 
 			<nav class="menu flex-topo">
 
-				<li><a href="#">INICIO</a></li>
-                <li><a >SERVIÇOS</a></li>
-                <li><a >SOBRE</a></li>
-                <li><a >CONTATO</a></li>
+				    <li><a href="#s-inicio">INICIO</a></li>
+                    <li><a href="#s-servi">SERVIÇOS</a></li>
+                    <li><a href="#s-sobre">SOBRE</a></li>
+                    <li><a href="#s-contato">CONTATO</a></li>
 
 	        </nav>
 
